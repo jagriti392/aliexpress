@@ -1,0 +1,28 @@
+/* src/App.css */
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  

@@ -1,0 +1,65 @@
+
+
+
+ .image-container {
+  text-align: center;
+  width:100%;
+  background-color:darkcyan;
+  padding-top: 4%;
+  
+}
+.bestsellers{
+  margin-top:20px;
+
+}
+
+ .image-container img {
+  
+   
+  border-radius: 4px;
+  margin-top:2%;
+} 
+
+.features-section {
+  display: flex;
+  flex-direction: left;
+  align-items: flex-end;
+  width: 97%;
+  margin-left: 50px;
+  padding-top:3.5;
+
+}
+
+   .feature {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}   
+
+ .icon {
+  font-size: 20px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+.description {
+  text-align: left;
+}
+
+.title {
+  font-weight: bold;
+  font-size: small;
+}
+
+
+.description p {
+  font-size: 10px;
+  font-weight: bold;
+} 
+
+
+.heading{
+  margin-right:1%;
+  font-size:  30px;
+}
+  
